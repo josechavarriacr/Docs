@@ -8,16 +8,15 @@ yangshun:
     x: yangshunz
     github: yangshun
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
+josechavarriacr:
+  name: Jose Chavarría
+  title: Software Architect
   url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+  image_url: https://github.com/josechavarriacr.png
+  page: true
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
+    x: josechavarriacr
+    linkedin: josechavarriacr
+    github: josechavarriacr
     newsletter: https://thisweekinreact.com
+
